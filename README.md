@@ -18,7 +18,7 @@
 
 ###
 
-##<img src="https://raw.githubusercontent.com/Tiwari7678/Tiwari7678/output/snake.svg" alt="Snake animation" />##
+
 
 ###
 
